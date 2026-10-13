@@ -37,5 +37,5 @@ A robotic project course at LTH involving an autonomous mobile robot capable of 
 
 ### Results
 
-- Successfully retrieved all 3 victims during the final demo, at a navigation time of 1:52 minutes (208 points). 
+- Successfully retrieved all 3 victims during the final demo, at a navigation time of 1:52 minutes (vastly exceeding the project's baseline requirements). 
   
